@@ -1,0 +1,9 @@
+Builds/
+.vs/
+*.user
+*.suo
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.vst3
