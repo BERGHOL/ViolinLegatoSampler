@@ -47,7 +47,12 @@ This approach allows fluid transitions without dedicated legato samples.
 
 ## 📁 Project Structure
 
-Source/ ├── PluginProcessor.cpp ├── PluginEditor.cpp ├── ViolinSamplerVoice.h └── ViolinSampleSound.h
+Source/ 
+├── Samples/
+├── PluginProcessor.cpp 
+├── PluginEditor.cpp 
+├── ViolinSamplerVoice.h 
+└── ViolinSampleSound.h
 
 ---
 
